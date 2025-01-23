@@ -1,16 +1,16 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
 title: Twilight Codex
-longtitle: Fragments of the Twilight Codex
+longtitle: "Duskara: Fragments of the Twilight Codex"
 author: Roberto Bisceglie
 email: robertobisceglie@gmail.com
 description: >
-  Fragments of the Twilight Codex is an in-world narrative compendium set on the tidally locked planet of Duskara. It weaves together diverse voices and perspectives—mythical, practical, and analytical—to create a deeply immersive exploration of Duskara’s environment, culture, and mysteries. 
+  Fragments of the Twilight Codex is an in-world narrative compendium set on the tidally locked planet of Duskara. It weaves together diverse voices and perspectives—mythical, practical, and analytical—to create a deeply immersive exploration of Duskara’s environment, culture, and mysteries. The Codex serves as a foundation for storytelling, worldbuilding, and interactive experiences within this rich setting.
 
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
 # to disambiguate links for search engines.
-baseurl_canonical: https://zeruhur.icu/twilightcodex
+baseurl_canonical: https://zeruhur.github.io/twilightcodex
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -18,11 +18,11 @@ baseurl_canonical: https://zeruhur.icu/twilightcodex
 # Set a start_year to have the copyright render as "start_year - current_year" (if the years are different)
 # Set copyright: false to disable.
 copyright:
-  start_year: 2024
+  start_year: 2023
   url: /book.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: assets/favicon.ico
+favicon_path: assets/gitbook/images/favicon.ico
 
 #
 # Navigation menus
@@ -47,20 +47,16 @@ sidebar_nav_top:
 sidebar_nav_bottom:
 - label: Draft outline
   url: /outline.html
-- label: Fork at GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
+
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
 - label: Home
   url: /index.html
-- label: Book
-  url: /book.html
 - label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
-- label: Privacy
-  url: /privacy.html
+  url: https://github.com/zeruhur/twilightcodex
+
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
@@ -84,7 +80,7 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/jasongrimes/jekyll-chapterbook/edit/master/
+  base_url: https://github.com/zeruhur/twilightcodex/edit/master/
 
 # Custom CSS
 extra_css:
