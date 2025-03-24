@@ -1,0 +1,1 @@
+Fragments of the Twilight Codex © 2025 Roberto Bisceglie is released under CC BY-SA 4.0 

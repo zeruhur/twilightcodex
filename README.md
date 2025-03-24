@@ -1,9 +1,3 @@
----
-layout: home
-title: "Duskara: Fragments of the Twilight Codex"
-permalink: /
----
-
 # About This Project
 
 ## Project Overview
